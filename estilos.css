@@ -80,6 +80,11 @@ input[type=submit] { /*Cor da barra usada para o usuario escrever as informacoes
   cursor: pointer;
 }
 
+.submit { /*Barrinha de submit encontrada no final do formulario */
+  background-color: rgb(82, 75, 75);
+  color: black;
+}
+
 /*Na parte do hobby */
 .boxHobby { /*Box usado para o titulo(hobby)*/
   position:relative;
