@@ -1,0 +1,52 @@
+<html>
+<html lang="pt-br">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/CSS/estilos.css">
+
+<body style="background-color:rgb(0, 0, 0)">
+
+  </head>
+
+  <body>
+    <!--Aqui tem a lista que com as classes viram boxes, e os links que direcionam para as respectivas partes-->
+    <ul>
+      <li><a class="active" href="/index.html">Sobre mim</a></li>
+      <li><a href="/Paginas/Contato.html">Hobby</a></li>
+      <li><a href="/Paginas/Hobby.html">Contato</a></li>
+    </ul>
+
+    <header>
+      <!--Aqui tem a introducao, o indicativo que vai comecar o fomrulario, com a box container, e outra caixa content-->
+      <div class="container">
+        <img src="/Imagens/Novayork.jpg" style="width:100%;">
+        <div class="content">
+          <h1>Formulario para contato</h1>
+          <p>Para entrar em contato comigo, preencha os seguintes campos</p>
+        </div>
+    </header>
+
+    <div style="margin-left: 18.7%;padding: 1px 16px;height: 1000px;">
+      <!--esse daqui e o formulario:  o Span cria a caixa dando espaco para o topico "Nome completo" etc... Form usado para criar o espaco dando aspecto de formulario, label para dar etiqueta,-->
+      <span class="container">
+        <form action="/action_page.php">
+          <label for="fname">Nome Completo</label>
+          <input type="text" id="fname" name="firstname">
+          <!--O input cria a caixa para escrever-->
+
+          <label for="lname">Celular</label>
+          <input type="text" id="lname" name="lastname">
+
+
+          <label for="subject">Assunto</label>
+          <textarea id="subject" name="subject" style="height:200px"></textarea>
+
+          <input class="submit" type="submit" value="Submit">
+        </form>
+      </span>
+
+      </header>
+  </body>
+
+</html>
