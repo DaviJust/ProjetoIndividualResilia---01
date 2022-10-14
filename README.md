@@ -3,4 +3,4 @@ O trabalho foi feito com o objetivo de me apresentar e demonstrar as habilidades
 
 🌠Dentro do site tem minhas redes sociais, meus hobbys, um pouco de mim
 
-🖌Para abrir o site: Só clicar no arquivo indexProjeto1.html que vai direto ao trabalho 
+🖌Para abrir o site: Só clicar no arquivo index.html que vai direto ao trabalho 
