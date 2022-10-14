@@ -1,8 +1,6 @@
-# Projeto Resilia: Site de apresentação💻🌠
-O trabalho foi feito pensando em me apresentar, entretanto quis focar nos codigos que simplifiquem o site. 
-Por exemplo o ScrollFunction disponibiliza uma barra da qual posso usar o href para direcionar o usuario, o direcionamento torna o ambiente do website mais limpo, simplificando a navegação, pelo site.
-O site pode ser reciclado tambem para algo mais profissional, devido a interface mais simplificada, o que possibilita alterações e adições de novas tags, comandos sem haver tantos problemas.
+💻Projeto Resilia: Site de apresentação
+O trabalho foi feito com o objetivo de me apresentar e demonstrar as habilidades em HTML e CSS. Fiz pensando em organização e plataforma limpa.
 
-O trabalho foi feito pensando em me apresentar, entretanto quis focar nos codigos que simplifiquem o site. Por exemplo o ScrollFunction disponibiliza uma barra da qual posso usar o href para direcionar o usuario, o direcionamento torna o ambiente do website mais limpo, simplificando a navegação, pelo site. O site pode ser reciclado tambem para algo mais profissional, devido a interface mais simplificada, o que possibilita alterações e adições de novas tags, comandos sem haver tantos problemas. 
+🌠Dentro do site tem minhas redes sociais, meus hobbys, um pouco de mim
 
-#Para abrir o site: Só clicar no arquivo indexProjeto1.html que vai direto ao trabalho 👌
+🖌Para abrir o site: Só clicar no arquivo indexProjeto1.html que vai direto ao trabalho 
